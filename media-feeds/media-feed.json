@@ -25,6 +25,7 @@
           "@type": "PropertyValue",
           "name": "contentAttributes",
           "value": [
+            "noTitle",
             "forLightBackground",
             "centered"
           ]
