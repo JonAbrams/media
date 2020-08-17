@@ -61,17 +61,12 @@
         "target": "https://www.youtube.com/watch?v=5qyAnj5Ur5Q",
         "startTime": "00:08:52"
       },
-      "images": [
+      "image": [
         {
           "@type": "ImageObject",
           "width": 320,
           "height": 180,
-          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/mqdefault.jpg",
-          "additionalProperty": {
-            "@type": "PropertyValue",
-            "name": "contentAttributes",
-            "value": []
-          }
+          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/mqdefault.jpg"
         }
       ]
     }
