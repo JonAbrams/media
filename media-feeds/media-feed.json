@@ -15,27 +15,22 @@
       "@type": "Person"
     },
     "name": "YouTube",
-    "logo": [{
-      "@type": "ImageObject",
-      "width": 1113,
-      "height": 245,
-      "url": "https://beccahughes.github.io/media/media-feeds/chromium_logo_white.png",
-      "additionalProperty": {
-        "@type": "PropertyValue",
-        "name": "contentAttributes",
-        "value": ["forDarkBackground", "hasTitle", "transparentBackground"]
+    "logo": [
+      {
+        "@type": "ImageObject",
+        "url": "https://www.gstatic.com/images/branding/product/1x/youtube_64dp.png",
+        "height": 64,
+        "width": 64,
+        "additionalProperty": {
+          "@type": "PropertyValue",
+          "name": "contentAttributes",
+          "value": [
+            "forLightBackground",
+            "centered"
+          ]
+        }
       }
-    }, {
-      "@type": "ImageObject",
-      "width": 600,
-      "height": 315,
-      "url": "https://beccahughes.github.io/media/media-feeds/chromium_card.png",
-      "additionalProperty": {
-        "@type": "PropertyValue",
-        "name": "contentAttributes",
-        "value": ["forLightBackground", "hasTitle", "centered"]
-      }
-    }]
+    ]
   },
   "additionalProperty": [{
     "@type": "PropertyValue",
