@@ -32,11 +32,11 @@
       }
     ]
   },
-  "additionalProperty": {
+  "additionalProperty": [{
     "@type": "PropertyValue",
     "name": "cookieNameFilter",
     "value": "LOGIN_INFO"
-  },
+  }],
   "dataFeedElement": [
     {
       "@context": "http://schema.org/",
