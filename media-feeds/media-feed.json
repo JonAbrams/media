@@ -25,19 +25,19 @@
           "@type": "PropertyValue",
           "name": "contentAttributes",
           "value": [
-            "noTitle",
             "forLightBackground",
-            "centered"
+            "centered",
+            "noTitle"
           ]
         }
       }
     ]
   },
-  "additionalProperty": [{
+  "additionalProperty": {
     "@type": "PropertyValue",
     "name": "cookieNameFilter",
     "value": "LOGIN_INFO"
-  }],
+  },
   "dataFeedElement": [
     {
       "@context": "http://schema.org/",
@@ -60,7 +60,33 @@
         "@type": "WatchAction",
         "target": "https://www.youtube.com/watch?v=5qyAnj5Ur5Q",
         "startTime": "00:08:52"
-      }
+      },
+      "images": [
+        {
+          "@type": "ImageObject",
+          "width": 320,
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/mqdefault.jpg"
+        },
+        {
+          "@type": "ImageObject",
+          "width": 480,
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/hqdefault.jpg"
+        },
+        {
+          "@type": "ImageObject",
+          "width": 640,
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/sddefault.jpg"
+        },
+        {
+          "@type": "ImageObject",
+          "width": 1280,
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/hq720.jpg"
+        }
+      ]
     }
   ]
 }
