@@ -66,25 +66,12 @@
           "@type": "ImageObject",
           "width": 320,
           "height": 180,
-          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/mqdefault.jpg"
-        },
-        {
-          "@type": "ImageObject",
-          "width": 480,
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/hqdefault.jpg"
-        },
-        {
-          "@type": "ImageObject",
-          "width": 640,
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/sddefault.jpg"
-        },
-        {
-          "@type": "ImageObject",
-          "width": 1280,
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/hq720.jpg"
+          "url": "https://i.ytimg.com/vi/5qyAnj5Ur5Q/mqdefault.jpg",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "contentAttributes",
+            "value": []
+          }
         }
       ]
     }
